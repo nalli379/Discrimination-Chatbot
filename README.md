@@ -12,4 +12,4 @@ pathlib as p
 
 Usage:
 
-The chatbot asks a series of questions that can be answered as indicated in the chat e.g. (yes/no/not sure, q).
+The chatbot asks a series of questions that can be answered as indicated in the chat e.g. (yes/no/not sure/q).
